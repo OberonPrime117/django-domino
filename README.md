@@ -1,7 +1,6 @@
 # django-domino
 Domino - Wendys hybrid website which uses django for backend and vue js for frontend
 
-Running The Project : 
 ### Django 
   
    Firstly We need to activate the virtual environment 
@@ -12,3 +11,9 @@ Running The Project :
   
   `cd djangonautic
    python manage.py runserver`
+
+### VUE JS
+
+    We will directly cd into the vue directory of the project and run the vue project from there.
+    `cd djangonautic-vue
+     npm run serve`

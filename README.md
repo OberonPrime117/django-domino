@@ -22,5 +22,5 @@
    
    
    - `cd djangonautic-vue`
-    
+   - `npm install`
    - `npm run serve`

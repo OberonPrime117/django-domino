@@ -7,7 +7,9 @@ Domino - Wendys hybrid website which uses django for backend and vue js for fron
   `source bin/activate`
   
   Then cd into the project directory containing the django files and the `manage.py` file. 
-  And run the django server from there 
+  And run the django server from there
+  
+  
   `cd djangonautic
    python manage.py runserver`
 

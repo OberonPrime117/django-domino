@@ -8,9 +8,7 @@ Domino - Wendys hybrid website which uses django for backend and vue js for fron
   
   Then cd into the project directory containing the django files and the `manage.py` file. 
   And run the django server from there 
-  
   `cd djangonautic
-   
    python manage.py runserver`
 
 ### VUE JS
@@ -19,6 +17,4 @@ Domino - Wendys hybrid website which uses django for backend and vue js for fron
    
    
    `cd djangonautic-vue
-   
-   
     npm run serve`

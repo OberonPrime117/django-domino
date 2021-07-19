@@ -10,10 +10,14 @@ Domino - Wendys hybrid website which uses django for backend and vue js for fron
   And run the django server from there 
   
   `cd djangonautic
+   
    python manage.py runserver`
 
 ### VUE JS
 
-   We will directly cd into the vue directory of the project and run the vue project from there.
+   We will directly cd into the vue directory of the project and run the vue project from there
+    
+    
     `cd djangonautic-vue
+     
      npm run serve`

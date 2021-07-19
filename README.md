@@ -1,5 +1,8 @@
-# django-domino
-Domino - Wendys hybrid website which uses django for backend and vue js for frontend
+# Domino - Wendys hybrid website which uses django for backend and vue js for frontend
+
+
+## INSTRUCTIONS TO RUN THE PROJECT
+
 
 ### Django 
   

@@ -11,6 +11,7 @@ Domino - Wendys hybrid website which uses django for backend and vue js for fron
   
   
   `cd djangonautic
+  
    python manage.py runserver`
 
 ### VUE JS

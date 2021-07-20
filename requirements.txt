@@ -15,7 +15,6 @@ future==0.18.2
 Glances==3.2.0
 html5lib==1.1
 idna==3.2
-isc==2.0
 lightdm-gtk-greeter-settings==1.2.2
 Markdown==3.3.4
 meld==3.20.3

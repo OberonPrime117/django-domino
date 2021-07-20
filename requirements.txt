@@ -39,7 +39,6 @@ s-tui==1.1.1
 setproctitle==1.2.2
 six==1.16.0
 sqlparse==0.4.1
-team==1.0
 termcolor==1.1.0
 tldr==1.2.1
 toml==0.10.2

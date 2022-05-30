@@ -1,7 +1,7 @@
 
 <template>
     <div class="page-log-in">
-        <img class="self-logo logo" src="../assets/domino.png">
+       
         <hr>
         <div class="columns">
             <div class="column is-4 is-offset-4">
@@ -38,9 +38,7 @@
                     <router-link to="/sign-up" class="box password-blocks-2 "><b>  SIGN UP FOR DOMINO PIZZA</b></router-link> 
                 </form>
             </div>
-            <div class="forgot-password text-right">
-                <router-link to="forgot">Forgot password?</router-link>
-            </div>
+            
         </div>
        
     </div>

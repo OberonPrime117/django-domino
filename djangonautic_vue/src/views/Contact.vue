@@ -115,7 +115,7 @@ export default {
   padding-top: 30px;
 }
 .total {
-	margin-left:600px;
+	margin-left:30%;
 	margin-right:450px;
 	width:800px;
 }
